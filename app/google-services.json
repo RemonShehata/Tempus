@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "54469514436",
+    "firebase_url": "https://time-set.firebaseio.com",
+    "project_id": "time-set",
+    "storage_bucket": "time-set.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54469514436:android:cc1763a99bce3430",
+        "android_client_info": {
+          "package_name": "com.example.tempus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "54469514436-rtedd27uiv5k8f5315o1pi5sod06dn2j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tempus",
+            "certificate_hash": "69d9770387dc6800da67e6abeb8ade2cd4bd9670"
+          }
+        },
+        {
+          "client_id": "54469514436-26ghiqqjcuip1ppa6e47d92s72b78te7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB1PwJvMQ9S10Sp5c-s_JX6Mb1QX5N_IE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "54469514436-26ghiqqjcuip1ppa6e47d92s72b78te7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
